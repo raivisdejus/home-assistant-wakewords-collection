@@ -4,10 +4,8 @@
     "author": "Raivis Dejus",
     "website": "https://balsutalka.lv/",
     "model": "hei_dzarvis.tflite",
-    "trained_languages": [
-        "lv"
-    ],
-    "version": 1,
+    "trained_languages": ["lv"],
+    "version": 2,
     "micro": {
         "probability_cutoff": 0.97,
         "feature_step_size": 10,
